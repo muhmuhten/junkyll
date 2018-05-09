@@ -71,12 +71,15 @@ For that reason, whenever requirements change, it's useful to reexamine the enti
 
 Conversely, the benefit to having an elegant design in the first place is that it obviates the need for requirements to change; it was already general enough to accommodate the requirements.
 
-## Do the right thing by default
+## Doing the right thing by default
 
 More of an aphorism than a statement of an actionable principle, I strongly feel that it is fruitless to try enumerating the things that are right and should be done, and equally pointless to enumerate the things that are wrong and to be avoid. In other words, I have a rather low opinion of "Dos and Don'ts" lists.
 
 Design is in no small part about things that are hard to explicitly state, because they're subtle enough that the vocabulary for them doesn't really exist, but feel more or less right or wrong. The defining element of good design is not that it does anthing in particular, but that it subtly provides correct information and doesn't get in the way. It's not something that's easy to get get right by starting with something subtly wrong in various way and correcting some of them from a checklist. You'll just end up with a design that's subtly wrong in different, maybe slightly fewer, ways.
 
 Trying to achieve good design by following principles explicitly seems like trying to achieve good reading comprehension by using a dictionary, or trying to achieve good writing by using a thesaurus, or trying to achieve good cooking using a recipe, or trying to achieve insightful synthesis by quoting prior art. On the face of it everything you do may be _literally correct_, but it lacks nuance, contextual understanding, and general je ne sais quoi.
+
+There's [a certain Dijkstra quote](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD05xx/EWD581.html) I'm quite fond of, which sums up my beliefs on this front:
+> As far as the mechanics of manuscript production are concerned, I can warmly recommend to all prospective authors to train themselves to get their texts nearly right the first time: it is a fast, efficient, and cheap way of working that almost always gives great esthetic and intellectual satisfaction.
 
 Principles need to be understood and internalized and fully generalized, not applied by rote. I don't know any alternative to lots of experience for this, so I'll have to work on that.
